@@ -109,7 +109,7 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![387254598-50ca9946-c38a-402d-9e59-489a1d44a128](https://github.com/user-attachments/assets/d8ff347b-1752-4fb7-bc02-bc18c398982e)
+![387254598-50ca9946-c38a-402d-9e59-489a1d44a128](https://github.com/user-attachments/assets/e98a456b-fc5a-4834-862d-74d90e0c6667)
 
 
 # RESULT:
